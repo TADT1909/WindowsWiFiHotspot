@@ -1,16 +1,15 @@
-# WindowsWifiHotspot
-A script to set up and manage your Windows Wifi hotspot
+# Windows WiFi Hotspot Manager
+### A script to set up and manage your Windows WiFi hotspot
 
-Run file "[en]WifiHotspotManager.bat" or "[vi]WifiHotspotManager.bat" and type your options.
+1. Run file [\[en\]WiFiHotspotManager.bat](https://github.com/TADT1909/WindowsWifiHotspot/blob/master/%5Ben%5DWiFiHotspotManager.bat) or [\[vi\]WiFiHotspotManager.bat](https://github.com/TADT1909/WindowsWifiHotspot/blob/master/%5Bvi%5DWiFiHotspotManager.bat) and type your options.
 
-And remember to get your main connection shared with new hotspot connection as following:
-
-  ##Click Start button
-  ##Type in "View network connections", press Enter
-    ** Notice on your newly created connection **
-    ** e.g. "Wireless Network Connection 2" (The connection that has "Microsoft Virtual WiFi Miniport Adapter" in line 3)**
-  ##Right click on your main connection e.g. "Local Area Connection"
-  ##Switch to tab "Sharing"
-  ##Tick "Allow other network users to connect through this computer's Internet connections"
-  ##Select your newly created connection
-Done!
+1. Get your main connection shared with new hotspot connection as following:
+  	* Click __Start__ button
+  	* Type in __"View network connections"__, press Enter
+		* *Notice on your __newly created connection__**
+		* *e.g. "Wireless Network Connection 2" with __"Microsoft Virtual WiFi Miniport Adapter"__ in line 3*
+	* Right click on your main connection e.g. "Local Area Connection"
+	* Switch to tab "Sharing"
+	* Tick "Allow other network users to connect through this computer's Internet connections"
+	* Select your newly created connection
+1. Done! Enjoy your Wifi Hotspot :thumbsup: :wink:
